@@ -26,3 +26,4 @@ class Test
 echo Test::stat();  // echo 12;
 
 
+// 06.07.18
